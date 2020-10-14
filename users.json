@@ -1,0 +1,21 @@
+{ "users": [
+        {
+            "id": 1,
+            "name": "demo",
+            "email": "demo@sample.com",
+            "password": "$2y$10$aBP4iY8mv3RFBDY3fNuQWeQ/kgS7o2ALOnCQfc9fiPt6jF.uBf/8G",
+            "api_key": "",
+            "created_at": "2020-10-13 11:36:38",
+            "updated_at": "2020-10-13 11:36:38"
+        },
+        {
+            "id": 1,
+            "name": "sample",
+            "email": "sample@sample.com",
+            "password": "$2y$10$aBP4iY8mv3RFBDY3fNuQWeQ/kgS7o2ALOnCQfc9fiPt6jF.uBf/8G",
+            "api_key": "cE51VHpSQzBvbXk1aXhLNkk4cHBjclBqVXdZNFNvVzVjdHVBUTlzQw==",
+            "created_at": "2020-10-13 13:33:46",
+            "updated_at": "2020-10-14 14:23:17"
+        }
+    ]
+}
